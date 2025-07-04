@@ -1,2 +1,3 @@
-num = int(input())
-print(num)
+# Solution: Read a number and print it
+number = int(input())
+print(number)
