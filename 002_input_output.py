@@ -12,5 +12,5 @@
 #    5 10 15 20
 
 nums = list(map(int, input().split()))
-print(*nums)
+print(*nums) 
 
