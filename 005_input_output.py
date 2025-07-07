@@ -16,7 +16,7 @@
 #
 #    Output must be in the same order as input, with values space-separated.
 #
-# 🧠 Hint:
+# 🧠 Hint: 
 #    Use `int(input())` three times to read the values one by one.
 #    Use `print(a, b, c)` to print all values in one line with space in between.
 #
