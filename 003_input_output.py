@@ -27,7 +27,7 @@
 #    5 3
 #    1 2 3 4 5
 
-n, k = map(int, input().split())
+n, k = map(int, input().split()) 
 print(n, k)
 arr = list(map(int, input().split()))
 print(*arr)
