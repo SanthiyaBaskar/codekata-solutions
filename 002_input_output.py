@@ -8,7 +8,7 @@
 #
 # ✅ Sample Input:
 #    5 10 15 20
-# ✅ Sample Output:
+# ✅ Sample Output: 
 #    5 10 15 20
 
 nums = list(map(int, input().split()))
