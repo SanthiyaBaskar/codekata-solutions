@@ -30,4 +30,4 @@
 n, k = map(int, input().split()) 
 print(n, k)
 arr = list(map(int, input().split()))
-print(*arr)
+print(*arr) 
